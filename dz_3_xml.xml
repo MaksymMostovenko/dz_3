@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student UNID="45">
+	<Name>Taras Shevchenko</Name>
+	<Sex>Male</Sex>
+	<Age>13</Age>
+	<Height>175</Height>
+	<Contacts>
+		<Parent#1>
+			<Name>Shevchenko Hryhoriy</Name>
+			<Adress>
+				<County>UA</County>
+				<City>Cherkasy</City>
+				<PostalCode>23433</PostalCode>
+			</Adress>
+			<Phone>+38055-777-22-33</Phone>
+		</Parent#1>
+		<Parent#2>
+			<Name>NA</Name>
+			<Adress>
+				<County>UA</County>
+				<City>Cherkasy</City>
+				<PostalCode>23433</PostalCode>
+			</Adress>
+			<Phone>+38056-773-33-99</Phone>
+		</Parent#2>
+	</Contacts>
+	<Subjects>
+		<sub1>Chemistry</sub1>
+		<sub2>Arts</sub2>
+		<sub3>Analisys</sub3>
+		<sub4>Modern Literature</sub4>
+	</Subjects>
+	<Job>true</Job>
+	<email>
+		<main>tsheva@mail.com</main>
+		<reserve>kobzar@ukrlit.com.ua</reserve>
+	</email>
+	<AverageMark>Good</AvarageMark>
+	<CIA>falce</CIA>
+</Student>
