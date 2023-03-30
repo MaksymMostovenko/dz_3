@@ -1,0 +1,30 @@
+Student:
+    Name: Taras Shevchenko
+    Sex: Male
+    Age: 13
+    Contacts:
+        - Parent#1:
+            Name: Shevchenko Hryhoriy
+            Adress:
+                Country: UA
+                City: Cherkasy
+                PostalCode: 23433
+            Phone: +38055-777-22-33
+         - Parent#2:
+            Name: N/A
+            Adress:
+                Country: UA
+                City: Cherkasy
+                PostalCode: 
+            Phone: +38056-773-33-99
+    Subjects:
+        - Chemistry
+        - Arts
+        - Analisys
+        - Modern Literature
+    HasJob: true
+    Mailing:
+        - main: tsheva@mail.com
+        - reserve: kobzar@ukrlit.com.ua
+    AvarageMark: Good
+    CIA: falce
