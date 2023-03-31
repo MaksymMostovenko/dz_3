@@ -5,7 +5,7 @@
 	<Age>13</Age>
 	<Height>175</Height>
 	<Contacts>
-		<Parent#1>
+		<Parent1>
 			<Name>Shevchenko Hryhoriy</Name>
 			<Adress>
 				<County>UA</County>
@@ -13,8 +13,8 @@
 				<PostalCode>23433</PostalCode>
 			</Adress>
 			<Phone>+38055-777-22-33</Phone>
-		</Parent#1>
-		<Parent#2>
+		</Parent1>
+		<Parent2>
 			<Name>NA</Name>
 			<Adress>
 				<County>UA</County>
@@ -22,7 +22,7 @@
 				<PostalCode>23433</PostalCode>
 			</Adress>
 			<Phone>+38056-773-33-99</Phone>
-		</Parent#2>
+		</Parent2>
 	</Contacts>
 	<Subjects>
 		<sub1>Chemistry</sub1>
@@ -35,6 +35,6 @@
 		<main>tsheva@mail.com</main>
 		<reserve>kobzar@ukrlit.com.ua</reserve>
 	</email>
-	<AverageMark>Good</AvarageMark>
+	<AverageMark>Good</AverageMark>
 	<CIA>falce</CIA>
 </Student>
