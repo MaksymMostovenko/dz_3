@@ -1,0 +1,33 @@
+{
+	"student":{
+	  "name":"Taras Shevchenko",
+	  "sex":"Male",
+	  "age":13,
+	  "height":175,
+	  "contacts":[
+		{
+			"name":"Shevchenko Hryhoriy",
+			"adress":{
+				"county":"UA",
+				"city":"Cherkasy",
+				"postalCode":23433
+			},
+			"phone":"+38055-777-22-33"
+		},
+		{
+			"name":"N/A",
+			"adress":{
+				"county":"UA",
+				"city":"Cherkasy",
+				"postalCode":"02123"
+			},
+			"phone":"+38056-773-33-99"
+		}
+	  ],
+	  "subjects":["Chemistry", "Arts", "Analisys", "Modern Literature"],
+	  "hasJob":true,
+	  "mailing":{ "Main":"tsheva@mail.com", "Reserve":"kobzar@ukrlit.com.ua"},
+	  "anarageMark":"Good",
+	  "cia":false
+	}
+  }
